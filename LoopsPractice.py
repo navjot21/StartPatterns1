@@ -1,4 +1,4 @@
-"""# Write a program to print first 10 natural number
+# Write a program to print first 10 natural number
 print("First 10 natural numbers are: ")
 for i in range(1, 11):
     print(i)
@@ -43,7 +43,7 @@ a = int(input("Enter the number a: "))
 b = int(input("Enter the number b: "))
 c = a + b
 print("the sum of two number is: ", c)
-"""
+
 # Write a program to check whether a number is prime or not.
 n = int(input("Enter the number to find it is prime or not: "))
 for i in range(2, n):
